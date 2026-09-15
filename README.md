@@ -1,8 +1,8 @@
-# 理论力学教学代码
+# 经典力学教学代码
+- [周详](mailto:xiangzhou@whu.edu.cn)
+- 武汉大学
 
-以**前向欧拉法（Forward Euler）**为主线的理论力学数值计算教学笔记本：用最简单的数值格式求解各类经典力学系统，考察其解的精度与能量行为。
-
-## 第一章：前向欧拉法
+## 第一章：一维力学系统
 
 | 编号 | 笔记本 | 系统 | 关注点 |
 | :--: | ------ | ---- | ------ |
@@ -22,6 +22,4 @@ Python 3 与 Jupyter，依赖 numpy、matplotlib、scipy：
 pip install numpy matplotlib scipy jupyterlab
 ```
 
-## 作者
 
-[周详](mailto:xiangzhou@whu.edu.cn)、武汉大学
