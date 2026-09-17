@@ -14,6 +14,12 @@
 
 各册均采用同一教学结构：**运行前先写下预测 → 运行并对照 → 结论与思考**。
 
+## 第二章：二维力学系统
+
+| 编号 | 笔记本 | 系统 | 关注点 |
+| :--: | ------ | ---- | ------ |
+| 1 | [匀速圆周运动](Chapter2/1_circular_motion_euler.ipynb) | $\boldsymbol F = -kr\,\boldsymbol e_r$ | 直角坐标 vs 极坐标：同一方法的两种命运 |
+
 ## 运行环境
 
 Python 3 与 Jupyter，依赖 numpy、matplotlib、scipy：
